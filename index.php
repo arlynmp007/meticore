@@ -1,3 +1,3 @@
 <script type="text/javascript">
-location.replace("http://americafolks.com/")
+location.replace("http://americafolks.com")
 </script>
